@@ -1,6 +1,6 @@
 # Enhancing Depression Detection in Social Media using Multimodal methods: A Scalable Approach for Improved Accuracy and Efficiency
 
-## Oor architecture:
+## Our architecture:
 ![image](./structure.png)
 
 ## Frontend demo:
