@@ -1,13 +1,13 @@
-## Enhancing Depression Detection in Social Media using Multimodal methods: A Scalable Approach for Improved Accuracy and Efficiency
+# Enhancing Depression Detection in Social Media using Multimodal methods: A Scalable Approach for Improved Accuracy and Efficiency
 
-# Our architecture:
+### Oor architecture:
 ![image](./structure.png)
 
-# Frontend demo:
+### Frontend demo:
 https://github.com/ProsperousYe/WALL-E-Detector.git
 
-# Citation
+### Citation
 ```
 https://github.com/wywyWang/Depression-Detection-LT-EDI-ACL-2022
 ```
-# Multimodel-Depression-Dectector
+### Multimodel-Depression-Dectector
